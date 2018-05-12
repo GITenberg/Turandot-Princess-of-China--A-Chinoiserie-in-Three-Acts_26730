@@ -1,0 +1,42 @@
+_repo: Turandot-Princess-of-China--A-Chinoiserie-in-Three-Acts_26730
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Bithell, Jethro
+    birthdate: &id001 1878
+    deathdate: 1962
+    gutenberg_agent_id: '32211'
+    url: http://www.gutenberg.org/2009/agents/32211
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Gozzi, Carlo
+    birthdate: 1720
+    deathdate: 1806
+    gutenberg_agent_id: '8719'
+    url: http://www.gutenberg.org/2009/agents/8719
+    wikipedia: http://en.wikipedia.org/wiki/Carlo_Gozzi
+  - agent_name: Vollmöller, Karl
+    aliases:
+    - Vollmoller, Karl
+    - Vollmoeller, Karl Gustav
+    birthdate: *id001
+    deathdate: 1948
+    gutenberg_agent_id: '32210'
+    url: http://www.gutenberg.org/2009/agents/32210
+description: ''
+gutenberg_issued: '2008-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26730'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama'
+- !lcc 'PQ'
+title: 'Turandot, Princess of China: A Chinoiserie in Three Acts'
+url: http://www.gutenberg.org/ebooks/26730
