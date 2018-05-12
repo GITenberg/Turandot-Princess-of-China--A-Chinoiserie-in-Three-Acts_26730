@@ -3,7 +3,7 @@ _version: 0.1.0
 contributor:
   translator:
     agent_name: Bithell, Jethro
-    birthdate: &id001 1878
+    birthdate: 1878
     deathdate: 1962
     gutenberg_agent_id: '32211'
     url: http://www.gutenberg.org/2009/agents/32211
@@ -22,11 +22,13 @@ creator:
     aliases:
     - Vollmoller, Karl
     - Vollmoeller, Karl Gustav
-    birthdate: *id001
+    birthdate: 1878
     deathdate: 1948
     gutenberg_agent_id: '32210'
     url: http://www.gutenberg.org/2009/agents/32210
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26730#Turandot-Princess-of-China--A-Chinoiserie-in-Three-Acts
 gutenberg_issued: '2008-09-30'
 gutenberg_type: Text
 identifiers:
